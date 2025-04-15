@@ -5,7 +5,7 @@
 </p>
 
 <h1 align="center">DEDSEC_GTERM </h1>
-<h4 align="center">DEDSEC GTERM is a Linux-based tool can create a gmail temporary email in a second, and receive email.</h4>
+<h4 align="center">DEDSEC GTERM is a Linux-based tool can create a temporary gmail in a second, and receive email.</h4>
 
 ### DESCRIPTION
 DEDSEC GTERM is an innovative tool designed for quick and easy generation of temporary Gmail addresses, ensuring anonymity without revealing your real identity. With a user-friendly interface, it streamlines the process, making it ideal for various applications, from online registrations to testing applications. Enjoy swift email reception and stay in control of your online interactions. Simplify your digital experience and protect your identity effortlessly.
