@@ -10,6 +10,12 @@
 ### DESCRIPTION
 DEDSEC GTERM is an innovative tool designed for quick and easy generation of temporary Gmail addresses, ensuring anonymity without revealing your real identity. With a user-friendly interface, it streamlines the process, making it ideal for various applications, from online registrations to testing applications. Enjoy swift email reception and stay in control of your online interactions. Simplify your digital experience and protect your identity effortlessly.
 
+### SCREENSHOT 
+<p align="center">
+<img src="https://github.com/user-attachments/assets/0c9d2f6a-ecce-4784-88db-f5b357845db2", width="500", height="500">
+<img src="https://github.com/user-attachments/assets/15ddecc5-0b77-4565-9d88-0b372cefb9c2", width="500", height="500">
+</p>
+
 ### INSTALLATION
     * git clone https://github.com/0xbitx/DEDSEC_GTERM.git
     * cd DEDSEC_GTERM
