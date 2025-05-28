@@ -20,8 +20,14 @@ DEDSEC GTERM is an innovative tool designed for quick and easy generation of tem
     * git clone https://github.com/0xbitx/DEDSEC_GTERM.git
     * cd DEDSEC_GTERM
     * pip install requests beautifulsoup4 tabulate
-    * chmod +x dedsec_gterm
-    * ./dedsec_gterm
+    * chmod +x dedsec-gterm
+    * ./dedsec-gterm
+
+    or 
+    
+    sudo apt install ./dedsec-gterm.deb
+    dedsec-gterm
+    
 
 ### TESTED ON FOLLOWING
 * Kali Linux 
